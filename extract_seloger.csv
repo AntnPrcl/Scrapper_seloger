@@ -1,0 +1,60 @@
+city;neighborhood;price;room;bedroom;surface;pm2;balcony;terrace;parking;swimming;elevator;floor;nb_floor
+Décines-Charpieu;Quartier Sablon;150000;3;2;57;2631.0;TRUE;FALSE;FALSE;FALSE;FALSE;6;–
+Décines-Charpieu;Quartier Sablon;150000;3;2;57;2631.0;TRUE;FALSE;FALSE;FALSE;FALSE;6;–
+Décines-Charpieu;Quartier Sablon;150000;3;2;57;2631.0;TRUE;FALSE;FALSE;FALSE;FALSE;6;–
+Décines-Charpieu;Quartier Bonneveau;725000;8;6;197;3680.0;TRUE;TRUE;FALSE;TRUE;FALSE;-;-
+Décines-Charpieu;Quartier Bonneveau;725000;8;6;197;3680.0;TRUE;TRUE;FALSE;TRUE;FALSE;-;-
+Décines-Charpieu;Quartier Bonneveau;725000;8;6;197;3680.0;TRUE;TRUE;FALSE;TRUE;FALSE;-;-
+Décines-Charpieu;Quartier Charpieu;550000;8;5;164;3353.0;TRUE;FALSE;FALSE;FALSE;FALSE;-;-
+Décines-Charpieu;Quartier Charpieu;550000;8;5;164;3353.0;TRUE;FALSE;FALSE;FALSE;FALSE;-;-
+Décines-Charpieu;Quartier Charpieu;550000;8;5;164;3353.0;TRUE;FALSE;FALSE;FALSE;FALSE;-;-
+Décines-Charpieu;-;210000;4;2;70;3000.0;TRUE;FALSE;FALSE;FALSE;FALSE;1;4
+Décines-Charpieu;-;210000;4;2;70;3000.0;TRUE;FALSE;FALSE;FALSE;FALSE;1;4
+Décines-Charpieu;-;329000;4;3;82.07;4008.0;FALSE;TRUE;FALSE;FALSE;FALSE;2;3
+Décines-Charpieu;-;329000;4;3;82.07;4008.0;FALSE;TRUE;FALSE;FALSE;FALSE;2;3
+Décines-Charpieu;Quartier Champ-Blanc;580000;4;3;110;5272.0;TRUE;TRUE;FALSE;FALSE;FALSE;-;-
+Décines-Charpieu;Quartier Champ-Blanc;580000;4;3;110;5272.0;TRUE;TRUE;FALSE;FALSE;FALSE;-;-
+Décines-Charpieu;Quartier Cornavent;175000;3;2;61.27;2856.0;TRUE;FALSE;FALSE;FALSE;TRUE;3;–
+Décines-Charpieu;Quartier Cornavent;175000;3;2;61.27;2856.0;TRUE;FALSE;FALSE;FALSE;TRUE;3;–
+Décines-Charpieu;Quartier Centre;180000;4;3;69;2608.0;FALSE;FALSE;FALSE;FALSE;FALSE;0;–
+Décines-Charpieu;Quartier Centre;180000;4;3;69;2608.0;FALSE;FALSE;FALSE;FALSE;FALSE;0;–
+Décines-Charpieu;Quartier Centre;149000;2;1;41;3634.0;FALSE;FALSE;FALSE;FALSE;FALSE;2;–
+Décines-Charpieu;Quartier Centre;149000;2;1;41;3634.0;FALSE;FALSE;FALSE;FALSE;FALSE;2;–
+Décines-Charpieu;Quartier Roosevelt-Wilson;449000;4;3;85;5282.0;FALSE;TRUE;FALSE;FALSE;FALSE;-;-
+Décines-Charpieu;Quartier Roosevelt-Wilson;449000;4;3;85;5282.0;FALSE;TRUE;FALSE;FALSE;FALSE;-;-
+Décines-Charpieu;Quartier Champ-Blanc;165000;3;2;63.99;2578.0;FALSE;FALSE;TRUE;FALSE;TRUE;2;4
+Décines-Charpieu;Quartier Champ-Blanc;165000;3;2;63.99;2578.0;FALSE;FALSE;TRUE;FALSE;TRUE;2;4
+Décines-Charpieu;Quartier Bonneveau;338000;4;3;90.33;3741.0;FALSE;FALSE;FALSE;FALSE;FALSE;-;-
+Décines-Charpieu;Quartier Bonneveau;338000;4;3;90.33;3741.0;FALSE;FALSE;FALSE;FALSE;FALSE;-;-
+Décines-Charpieu;Quartier La-Soie;159000;2;1;39.62;4013.0;TRUE;TRUE;TRUE;FALSE;FALSE;1;3
+Décines-Charpieu;Quartier La-Soie;159000;2;1;39.62;4013.0;TRUE;TRUE;TRUE;FALSE;FALSE;1;3
+Décines-Charpieu;Quartier Bonneveau;359000;4;3;87.67;4094.0;FALSE;TRUE;FALSE;FALSE;FALSE;-;-
+Décines-Charpieu;Quartier Bonneveau;359000;4;3;87.67;4094.0;FALSE;TRUE;FALSE;FALSE;FALSE;-;-
+Décines-Charpieu;Quartier Cornavent;299000;4;3;67;4462.0;FALSE;FALSE;FALSE;FALSE;FALSE;-;-
+Décines-Charpieu;Quartier Cornavent;299000;4;3;67;4462.0;FALSE;FALSE;FALSE;FALSE;FALSE;-;-
+Décines-Charpieu;Quartier Berthaudieres;196000;3;2;62.31;3145.0;TRUE;FALSE;FALSE;FALSE;FALSE;–;–
+Décines-Charpieu;Quartier Berthaudieres;196000;3;2;62.31;3145.0;TRUE;FALSE;FALSE;FALSE;FALSE;–;–
+Décines-Charpieu;Quartier Centre;180000;2;1;45.82;3928.0;FALSE;TRUE;FALSE;FALSE;FALSE;0;4
+Décines-Charpieu;Quartier Centre;180000;2;1;45.82;3928.0;FALSE;TRUE;FALSE;FALSE;FALSE;0;4
+Décines-Charpieu;Quartier Champ-Blanc;435000;7;5;160;2718.0;TRUE;FALSE;FALSE;FALSE;FALSE;-;-
+Décines-Charpieu;Quartier Champ-Blanc;435000;7;5;160;2718.0;TRUE;FALSE;FALSE;FALSE;FALSE;-;-
+Décines-Charpieu;Quartier Berthaudieres;278500;3;2;66;4219.0;FALSE;TRUE;FALSE;FALSE;TRUE;4;–
+Décines-Charpieu;Quartier Berthaudieres;278500;3;2;66;4219.0;FALSE;TRUE;FALSE;FALSE;TRUE;4;–
+Décines-Charpieu;Quartier Berthaudieres;174900;3;2;66;2650.0;TRUE;FALSE;FALSE;FALSE;TRUE;1;–
+Décines-Charpieu;Quartier Berthaudieres;174900;3;2;66;2650.0;TRUE;FALSE;FALSE;FALSE;TRUE;1;–
+Décines-Charpieu;Quartier Centre;235000;3;2;62;3790.0;FALSE;FALSE;FALSE;FALSE;TRUE;1;5
+Décines-Charpieu;Quartier Centre;235000;3;2;62;3790.0;FALSE;FALSE;FALSE;FALSE;TRUE;1;5
+Genas;Quartier Azieu;309000;3;2;65;4753.0;FALSE;TRUE;FALSE;FALSE;FALSE;1;–
+Genas;Quartier Azieu;309000;3;2;65;4753.0;FALSE;TRUE;FALSE;FALSE;FALSE;1;–
+Genas;Quartier Azieu;309000;3;2;65;4753.0;FALSE;TRUE;FALSE;FALSE;FALSE;1;–
+Genas;Quartier Azieu;375000;4;3;79;4746.0;FALSE;TRUE;FALSE;FALSE;FALSE;1;–
+Genas;Quartier Azieu;375000;4;3;79;4746.0;FALSE;TRUE;FALSE;FALSE;FALSE;1;–
+Genas;Quartier Azieu;375000;4;3;79;4746.0;FALSE;TRUE;FALSE;FALSE;FALSE;1;–
+Genas;Quartier Azieu;455000;4;3;81;5617.0;FALSE;TRUE;FALSE;FALSE;FALSE;2;–
+Genas;Quartier Azieu;455000;4;3;81;5617.0;FALSE;TRUE;FALSE;FALSE;FALSE;2;–
+Genas;Quartier Azieu;455000;4;3;81;5617.0;FALSE;TRUE;FALSE;FALSE;FALSE;2;–
+Genas;Quartier Vurey;400000;5;3;140;2857.0;FALSE;FALSE;FALSE;FALSE;FALSE;-;-
+Genas;Quartier Vurey;400000;5;3;140;2857.0;FALSE;FALSE;FALSE;FALSE;FALSE;-;-
+Genas;Quartier Azieu;500000;5;4;100;5000.0;FALSE;TRUE;FALSE;FALSE;FALSE;-;-
+Genas;Quartier Azieu;500000;5;4;100;5000.0;FALSE;TRUE;FALSE;FALSE;FALSE;-;-
+Genas;Quartier Vurey;655000;6;5;155;4225.0;FALSE;TRUE;FALSE;TRUE;FALSE;-;-
